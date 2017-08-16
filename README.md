@@ -1,6 +1,6 @@
 # Online Spell Checker
 
-A script to check spelling in google translate using Selenium.
+A script to check spelling using google translate.
 
 ## Requirements
 * Python 2.7
